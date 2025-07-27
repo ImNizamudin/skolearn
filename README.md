@@ -143,9 +143,8 @@ Proyek ini bersifat open-source dan dapat digunakan untuk pembelajaran. Pull req
 
 ---
 
-## 📷 Tangkapan Layar (Opsional)
-
-> ![Home Page](./assets/img/home-page.png)
-> !Login Page](./assets/img/login-page.png)
-> ![Dashboard Dosen Page](./assets/img/dosen-page.png)
-> ![Dashboard Mahasiswa Page](./assets/img/mahasiswa-page.png)
+## 📷 Tangkapan Layar
+![Home Page](./assets/img/home-page.png)
+!Login Page](./assets/img/login-page.png)
+![Dashboard Dosen Page](./assets/img/dosen-page.png)
+![Dashboard Mahasiswa Page](./assets/img/mahasiswa-page.png)
