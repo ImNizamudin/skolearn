@@ -1,0 +1,58 @@
+SETTING PROJEK student-task (php + mysql + apache2, phpmyadmin): 
+ini juga -> Username: adminweb | Password: admin123
+
+169  php -S localhost:8000
+  170  cd Downloads/PROJECT\ WEB/student-task/
+  171  php -S localhost:8000
+  172  sudo php -S localhost:8000
+  173  php -S localhost:8000
+  174  cd Downloads/PROJECT\ WEB/student-task/
+  175  ls
+  176  php -S localhost:8000
+  177  sudo php -S localhost:8000
+  178  cd /var/www/html/
+  179  ls
+  180  nano info.php
+  181  sudo nano info.php
+  182  cd ~
+  183  cd Downloads/PROJECT\ WEB/
+  184  mkdir student-task
+  185  cd student-task/
+  186  mkdir -p assets/css assets/js assets/uploads
+  187  mkdir includes tugas dashboard
+  188  touch index.php login.php logout.php contact.php
+  189  touch includes/db.php includes/auth.php
+  190  cd assets/css/
+  191  ls
+  192  wget https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css
+  193  ls
+  194  sudo mysql -u root -p
+  195  code .
+  196  cd ../
+  197  cd ..
+  198  code .
+  199  sudo mysql -u root -p
+  200  sudo mysql -u root
+  201  sudo systemctl status apache2.service 
+  202  sudo systemctl status mysql.service 
+  203  sudo phpenmod mysqli
+  204  sudo systemctl restart apache2
+  205  sudo ln -s /etc/phpmyadmin/apache.conf /etc/apache2/conf-available/phpmyadmin.conf
+  206  sudo a2enconf phpmyadmin
+  207  sudo systemctl reload apache2
+  208  sudo systemctl status apache2.service 
+  209  sudo mysql -u root
+  210  sudo systemctl restart NetworkManager
+  211  cd Downloads/PROJECT\ WEB/student-task/
+  212  sudo php -S localhost:8000
+  213  chmod 777 ~/Downloads/student-task/assets/uploads
+  214  chmod 777 /assets/uploads
+  215  chmod 777 ./assets/uploads
+  216  sudo php -S localhost:8000
+  217  sudo apt install phpmyadmin
+  218  sudo apt update
+  219  sudo apt install apache2 php libapache2-mod-php php-mysql mysql-server unzip
+  220  cd Downloads/PROJECT\ WEB/student-task/
+  221  code .
+
+
